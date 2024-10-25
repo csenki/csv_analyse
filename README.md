@@ -1,4 +1,4 @@
-csv_head.ps1 powershell script read all CSV file header form driectory and write the vertical the header
+csv_head.ps1 powershell script read all CSV file header form driectory and write  vertical the header
 
 Usegae:
 
