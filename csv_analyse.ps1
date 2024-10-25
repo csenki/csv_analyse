@@ -66,7 +66,7 @@ foreach ($file in $csvFiles) {
 		}
     
 	
-	    Remove-Variable columnName
+		Remove-Variable columnName
         Remove-Variable emptyCount
         Remove-Variable nonEmptyCount
         Remove-Variable maxLength
